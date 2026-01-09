@@ -21,7 +21,7 @@ I help **businesses and researchers** turn **raw data and images** into
 - Published full dataset on Kaggle
 
 🔗 [GitHub Repository](https://github.com/Haseeb-U/yolo-person-vehicle-dataset)  
-🔗 [Kaggle Dataset](https://www.kaggle.com/haseebhsb)
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/haseebhsb/yolo-person-vehicle-detection-dataset-annotated)
 
 ---
 
